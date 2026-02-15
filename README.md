@@ -40,11 +40,4 @@ My primary tech stack is HTML, CSS, and JavaScript on the front end. I am also f
   <img src="https://streak-stats.demolab.com?user=coding-cryptid&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/coding-cryptid/coding-cryptidoutput/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/coding-cryptid/coding-cryptid/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/coding-cryptid/coding-cryptid/output/pacman-contribution-graph.svg">
-</picture>
-
 ###
