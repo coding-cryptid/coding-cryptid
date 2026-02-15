@@ -44,6 +44,6 @@ My primary tech stack is HTML, CSS, and JavaScript on the front end. I am also f
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/coding-cryptid/coding-cryptid/output/snake.svg" alt="Snake animation" />
 
 ###
