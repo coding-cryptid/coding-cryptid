@@ -41,9 +41,3 @@ My primary tech stack is HTML, CSS, and JavaScript on the front end. I am also f
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/coding-cryptid/coding-cryptid/output/snake.svg" alt="Snake animation" />
-
-###
