@@ -9,7 +9,7 @@ My primary tech stack is HTML, CSS, and JavaScript on the front end. I am also f
 - 🧠 Currently learning: **JavaScript & React**
 - 📎 Working on: **Building**
 - 👾 Languages: **HTML, CSS, JavaScript, Python**
-- 🧋 Fun fact: **I play the 7-string guitar in a hard rock band.**
+- 🎮 Fun fact: **I play the 7-string guitar in a hard rock band.**
 
 ## My Skills 💪🏼
 ### Web Development and Programming
