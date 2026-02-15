@@ -31,10 +31,8 @@ My primary tech stack is HTML, CSS, and JavaScript on the front end. I am also f
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 ![Adobe After Affects](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)
-              
-###
 
-<h3 align="left">🔥   My Stats :</h3>
+## My Stats 🔥
 
 ###
 
