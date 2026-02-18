@@ -6,9 +6,9 @@ I'm an aspiring **Software Engineer and Web Developer** with experience in **Git
 
 My primary tech stack is HTML, CSS, and JavaScript on the front end. I am also familiar with Python.
 
-- 🧠 Currently learning: **JavaScript & React**
+- 📚 Currently learning: **JavaScript & React**
 - 📎 Working on: **Building**
-- 👾 Languages: **HTML, CSS, JavaScript, Python**
+- 🧠 Languages: **HTML, CSS, JavaScript, Python**
 - 🎮 Fun fact: **I play the 7-string guitar in a hard rock band.**
 
 ## My Skills 💪🏼
