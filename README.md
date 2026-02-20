@@ -6,7 +6,7 @@ I'm an aspiring **Software Engineer** with experience in **Git/GitHub, React, Fi
 
 My primary tech stack is HTML, CSS, and JavaScript. I am also familiar with Python.
 
-- 📚 Currently learning: **JavaScript & React**
+- 📚 Currently learning: **JavaScript**
 - 📎 Working on: **Building**
 - 🧠 Languages: **HTML, CSS, JavaScript, Python**
 - 🎮 Fun fact: **I play the 7-string guitar in a hard rock band.**
