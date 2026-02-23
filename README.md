@@ -2,6 +2,8 @@
 
 ## 👩🏻‍💻 About Me
 
+###
+
 <div align="left">
   I'm an aspiring **Software Engineer** with experience in **HTML5, CSS, JavaScript, and Figma**.  I love problem-solving while learning new skills, collaborating, and coding with a cup of tea in hand during thunderstorms.
   
@@ -11,6 +13,8 @@
   - 🎮 Fun fact: **I play the 7-string guitar in a hard rock band.**
 </div>
 
+###
+ 
 ## 📱 Tech Stack
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
