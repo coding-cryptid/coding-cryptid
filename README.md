@@ -1,3 +1,5 @@
+![IMG_9763](https://github.com/user-attachments/assets/68557e49-f416-4b13-9986-ce4b415ab036)
+
 # Hi there, I'm Gianna! 👋🏼
 
 ## About Me 👩🏻‍💻
