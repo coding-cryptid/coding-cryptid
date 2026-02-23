@@ -11,7 +11,7 @@ My primary tech stack is HTML, CSS, and JavaScript. I am also familiar with Pyth
 - 🧠 Languages: **HTML, CSS, JavaScript, Python**
 - 🎮 Fun fact: **I play the 7-string guitar in a hard rock band.**
 
-## Tech Stack 💪🏼
+## Tech Stack 📱
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
