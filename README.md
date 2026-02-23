@@ -38,7 +38,7 @@ I'm an aspiring **Software Engineer** with experience in **HTML5, CSS, JavaScrip
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=coding-cryptid&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=coding-cryptid&locale=en&mode=daily&theme=gruvbox_light&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
