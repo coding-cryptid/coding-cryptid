@@ -1,4 +1,4 @@
-# Hi there, I'm Gianna! 👋🏼 
+# Hi there, I'm Gianna! 🙋🏻‍♀️
 
 ## 👩🏻‍💻 About Me
 I'm an aspiring **Software Engineer** with experience in **HTML5, CSS, JavaScript, and Figma**.  I love problem-solving while learning new skills, collaborating, and coding with a cup of tea in hand during thunderstorms.
