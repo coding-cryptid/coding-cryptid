@@ -1,5 +1,3 @@
-
-
 # Hi there, I'm Gianna! 👋🏼
 
 ## About Me 👩🏻‍💻
