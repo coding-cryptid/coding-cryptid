@@ -37,7 +37,7 @@ I'm an aspiring **Software Engineer** with experience in **HTML5, CSS, JavaScrip
 
 ###
 
-[![Gianna's GitHub stats](https://github-readme-stats.vercel.app/api?username=coding-cryptid&show_icons=true&theme=apprentice)](https://github.com/coding-cryptid/github-readme-stats)
+![Gianna's GitHub stats](https://github-readme-stats.vercel.app/api?username=coding-cryptid&show_icons=true&theme=radical)
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=coding-cryptid&locale=en&mode=daily&theme=apprentice&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
