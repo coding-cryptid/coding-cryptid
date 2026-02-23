@@ -5,7 +5,7 @@ I'm an aspiring **Software Engineer** with experience in **HTML5, CSS, JavaScrip
   
 - 📚 Currently learning: **JavaScript**
 - 📎 Working on: **Building consistently!**
-- 🧠 Languages: **HTML, CSS, JavaScript, Python**
+- 💭 Languages: **HTML, CSS, JavaScript, Python**
 - 🎮 Fun fact: **I play the 7-string guitar in a hard rock band.**
 
 ## 📱 Tech Stack
