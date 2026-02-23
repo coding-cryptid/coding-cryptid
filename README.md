@@ -2,9 +2,7 @@
 
 ## About Me 👩🏻‍💻
 
-I'm an aspiring **Software Engineer** with experience in **Git/GitHub, React, Figma, and Visual Studio Code**.  I love problem-solving while learning new skills, collaborating, and coding with a cup of tea in hand during thunderstorms.
-
-My primary tech stack is HTML, CSS, and JavaScript. I am also familiar with Python.
+I'm an aspiring **Software Engineer** with experience in **HTML5, CSS, JavaScript, and Figma**.  I love problem-solving while learning new skills, collaborating, and coding with a cup of tea in hand during thunderstorms.
 
 - 📚 Currently learning: **JavaScript**
 - 📎 Working on: **Building**
