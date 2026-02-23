@@ -1,4 +1,4 @@
-# Hi there, I'm Gianna! 👋🏼
+# 👋🏼 Hi there, I'm Gianna!
 
 ## 👩🏻‍💻 About Me
 
