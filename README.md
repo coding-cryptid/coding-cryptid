@@ -1,20 +1,13 @@
 # 👋🏼 Hi there, I'm Gianna!
 
 ## 👩🏻‍💻 About Me
-
-###
-
-<div align="left">
-  I'm an aspiring **Software Engineer** with experience in **HTML5, CSS, JavaScript, and Figma**.  I love problem-solving while learning new skills, collaborating, and coding with a cup of tea in hand during thunderstorms.
+I'm an aspiring **Software Engineer** with experience in **HTML5, CSS, JavaScript, and Figma**.  I love problem-solving while learning new skills, collaborating, and coding with a cup of tea in hand during thunderstorms.
   
-  - 📚 Currently learning: **JavaScript**
-  - 📎 Working on: **Building consistently!**
-  - 🧠 Languages: **HTML, CSS, JavaScript, Python**
-  - 🎮 Fun fact: **I play the 7-string guitar in a hard rock band.**
-</div>
+- 📚 Currently learning: **JavaScript**
+- 📎 Working on: **Building consistently!**
+- 🧠 Languages: **HTML, CSS, JavaScript, Python**
+- 🎮 Fun fact: **I play the 7-string guitar in a hard rock band.**
 
-###
- 
 ## 📱 Tech Stack
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
