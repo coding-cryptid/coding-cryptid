@@ -5,7 +5,7 @@
 I'm an aspiring **Software Engineer** with experience in **HTML5, CSS, JavaScript, and Figma**.  I love problem-solving while learning new skills, collaborating, and coding with a cup of tea in hand during thunderstorms.
 
 - 📚 Currently learning: **JavaScript**
-- 📎 Working on: **Building Consistently!**
+- 📎 Working on: **Building consistently!**
 - 🧠 Languages: **HTML, CSS, JavaScript, Python**
 - 🎮 Fun fact: **I play the 7-string guitar in a hard rock band.**
 
