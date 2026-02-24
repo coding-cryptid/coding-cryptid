@@ -39,7 +39,7 @@ I'm an aspiring **Software Engineer** with experience in **HTML5, CSS, JavaScrip
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=coding-cryptid&locale=en&mode=daily&theme=ayu-mirage&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=coding-cryptid&locale=en&mode=daily&theme=rose_pine&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
