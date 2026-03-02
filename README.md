@@ -28,6 +28,7 @@ I'm an aspiring **Software Engineer** with experience in **HTML5, CSS, JavaScrip
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![Redux](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
+![Font Awesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=flat&logo=fontawesome&logoColor=white)
 
 ### Backend:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
