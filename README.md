@@ -2,7 +2,7 @@
 
 ## 👩🏻‍💻 About Me
 
-I'm an aspiring **Software Engineer** with experience in **HTML5/CSS, Python, JavaScript, and Figma**.  I love **problem-solving** while learning new skills, collaborating, and coding with a cup of tea in hand during thunderstorms. I am excited to start my career in tech and build applications that have **real-world impact!**
+I'm an aspiring **Software Engineer** with experience in **Python, JavaScript, React, and Figma**.  I love **problem-solving** while learning new skills, collaborating, and coding with a cup of tea in hand during thunderstorms. I am excited to start my career in tech and build applications that have **real-world impact!**
   
 - 📚 Currently learning: **JavaScript**
 - 💻 Working on: **Learning to build with Javascript**
