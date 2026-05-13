@@ -4,8 +4,8 @@
 
 I'm an aspiring **Software Engineer** with experience in **Python, JavaScript, React, and Figma**.  I love **problem-solving** while learning new skills, collaborating, and coding with a cup of tea in hand during thunderstorms. I am excited to start my career in tech and build applications that have **real-world impact!**
   
-- 📚 Currently learning: **JavaScript**
-- 💻 Working on: **Learning to build with Javascript**
+- 📚 Currently learning: **React**
+- 💻 Working on: **Learning to build React apps with Javascript**
 - 🥡 Programming Languages: **JavaScript, Python, TypeScript**
 - 🎮 Fun fact: **I am a gigging guitarist!**
 
