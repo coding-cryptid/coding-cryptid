@@ -6,7 +6,7 @@ I'm an aspiring **Software Engineer** with experience in **Python, JavaScript, R
   
 - 📚 Currently learning: **JavaScript & React**
 - 💻 Working on: **Building apps with React!**
-- 🥡 Programming Languages: **JavaScript, Python, TypeScript**
+- 🥡 Programming Languages: **JavaScript | Python | TypeScript**
 - 🎮 Fun fact: **I am a gigging guitarist!**
 
 ## 📱 Tech Stack
