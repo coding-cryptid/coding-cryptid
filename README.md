@@ -51,10 +51,10 @@ I'm an aspiring **Software Engineer** with experience in **Python, JavaScript, R
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=coding-cryptid&locale=en&mode=daily&theme=nord&hide_border=true" height="195" alt="streak graph"/>
   <img src="https://github-readme-stats.vercel.app/api?username=coding-cryptid&theme=nord&show_icons=true&hide_border=true&count_private=true" height="195"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coding-cryptid&theme=nord&show_icons=true&hide_border=true&layout=pie"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coding-cryptid&theme=nord&show_icons=true&hide_border=true&layout=donut"/>
 </div>
 
 
