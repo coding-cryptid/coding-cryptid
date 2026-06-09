@@ -2,19 +2,11 @@
 
 ## 🏙️ About Me
 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td>
-      I'm an aspiring **Software Engineer** with experience in **Python, JavaScript, React, and Figma**.  I love **problem-solving** while learning new skills, collaborating, and coding with a cup of tea         in hand during thunderstorms. I am excited to start my career in tech and build applications that have **real-world impact!**
-    </td>
-    <td>
-      - 📚 Currently learning: **MySQL**
-      - 👩🏻‍💻 Working on: **Building apps with React!**
-      - 🥡 Programming Languages: **`JavaScript` · `Python` · `TypeScript` · `SQL`**
-      - 🎮 Fun fact: **I am a gigging guitarist!**
-    </td>
-  </tr>
-</table>
+I'm an aspiring **Software Engineer** with experience in **Python, JavaScript, React, and Figma**.  I love **problem-solving** while learning new skills, collaborating, and coding with a cup of tea         in hand during thunderstorms. I am excited to start my career in tech and build applications that have **real-world impact!**
+  - 📚 Currently learning: **MySQL**
+  - 👩🏻‍💻 Working on: **Building apps with React!**
+  - 🥡 Programming Languages: **`JavaScript` · `Python` · `TypeScript` · `SQL`**
+  - 🎮 Fun fact: **I am a gigging guitarist!**
 
 ## 📱 Tech Stack
 
