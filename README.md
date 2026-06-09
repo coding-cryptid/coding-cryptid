@@ -10,9 +10,9 @@ I'm an aspiring **Software Engineer** with experience in **Python, JavaScript, R
 
 ## 📱 Tech Stack
 
-| Build | Tests | Coverage |
+| Frontend | Tests | Coverage |
 | :---: | :----: | :------: | 
-| [![Build Status](badge)](link) | [![Tests](badge)](link)| [![Coverage](badge)](link) |
+| ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) ![Redux](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black) ![Font Awesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=flat&logo=fontawesome&logoColor=white) | [![Tests](badge)](link)| [![Coverage](badge)](link) |
 
 ### Frontend:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
