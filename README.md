@@ -52,7 +52,7 @@ I'm an aspiring **Software Engineer** with experience in **Python, JavaScript, R
 ###
 
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coding-cryptid&theme=transparent&hide_border=true&layout=compact&width=200"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coding-cryptid&theme=nord&background=transparent&hide_border=true&layout=compact&width=200"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=coding-cryptid&theme=nord&show_icons=true&hide_border=true&count_private=true&width=200"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coding-cryptid&theme=nord&show_icons=true&hide_border=true&layout=pie"/>
 
