@@ -15,7 +15,7 @@ I'm currently a **Software Engineering Student** who loves building web games in
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=coding-cryptid&theme=ayu_mirage&hide_border=true&layout=compact"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=coding-cryptid&theme=nord&hide_border=true&layout=compact"/>
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=coding-cryptid&theme=nord&show_icons=true&hide_border=true&count_private=true"/>
