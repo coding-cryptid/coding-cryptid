@@ -15,15 +15,15 @@ I'm currently a **Software Engineering Student** who loves building web games in
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=coding-cryptid&theme=nord&hide_border=true&layout=compact"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=coding-cryptid&theme=nord&title_color=#E3C08D&hide_border=true&layout=compact"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=coding-cryptid&theme=nord&show_icons=true&hide_border=true&count_private=true"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=coding-cryptid&theme=nord&title_color=#E3C08D&show_icons=true&hide_border=true&count_private=true"/>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coding-cryptid&theme=nord&background=transparent&show_icons=true&hide_border=true&layout=donut&bg_color=00000000"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coding-cryptid&theme=nord&title_color=#E3C08D&background=transparent&show_icons=true&hide_border=true&layout=donut&bg_color=00000000"/>
     </td>
   </tr>
 </table>
