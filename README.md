@@ -5,7 +5,7 @@
 I'm an aspiring **Software Engineer** with experience in **Python, JavaScript, React, and Figma**.  I love **problem-solving**, collaborating and learning new things. I am excited to start my career in tech and build applications that have **real-world impact!**
   - 📚 Currently learning: **MySQL**
   - 👩🏻‍💻 Working on: **Building apps with React!**
-  - 🥡 Programming Languages: **`JavaScript` · `Python` · `TypeScript` · `SQL`**
+  - 🧬 Programming Languages: **`JavaScript` · `Python` · `TypeScript` · `SQL`**
   - 🎮 Fun fact: **I am a gigging guitarist!**
 
 ## Tech Stack
