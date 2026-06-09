@@ -53,6 +53,8 @@ I'm an aspiring **Software Engineer** with experience in **Python, JavaScript, R
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=coding-cryptid&locale=en&mode=daily&theme=nord&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"/>
+  ![coding-cryptid's Stats](https://github-readme-stats.vercel.app/api?username=coding-cryptid&theme=nord&show_icons=true&hide_border=false&count_private=true)
 </div>
+
 
 ###
