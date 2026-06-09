@@ -53,13 +53,13 @@ I'm an aspiring **Software Engineer** with experience in **Python, JavaScript, R
 
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td border="0">
+    <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=coding-cryptid&theme=nord&hide_border=true&layout=compact"/>
     </td>
-    <td border="0">
+    <td>
       <img src="https://github-readme-stats.vercel.app/api?username=coding-cryptid&theme=nord&show_icons=true&hide_border=true&count_private=true"/>
     </td>
-    <td border="0">
+    <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coding-cryptid&theme=nord&background=transparent&show_icons=true&hide_border=true&layout=pie"/>
     </td>
   </tr>
