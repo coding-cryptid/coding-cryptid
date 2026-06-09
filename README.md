@@ -59,7 +59,9 @@ I'm an aspiring **Software Engineer** with experience in **Python, JavaScript, R
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=coding-cryptid&theme=nord&show_icons=true&hide_border=true&count_private=true"/>
     </td>
-    <td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coding-cryptid&theme=nord&background=transparent&show_icons=true&hide_border=true&layout=pie"/>
     </td>
   </tr>
