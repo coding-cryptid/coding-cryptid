@@ -51,11 +51,11 @@ I'm an aspiring **Software Engineer** with experience in **Python, JavaScript, R
 
 ###
 
-<div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coding-cryptid&theme=nord&hide_border=true"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=coding-cryptid&theme=nord&show_icons=true&hide_border=true&count_private=true"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coding-cryptid&theme=nord&show_icons=true&hide_border=true&layout=donut"/>
-</div>
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coding-cryptid&theme=nord&hide_border=true&layout=compact"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=coding-cryptid&theme=nord&show_icons=true&hide_border=true&count_private=true&layout=compact"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coding-cryptid&theme=nord&show_icons=true&hide_border=true&layout=compact"/>
+
 
 
 ###
