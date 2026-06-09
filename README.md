@@ -25,7 +25,7 @@ I'm currently a **Software Engineering Student** who loves building web games in
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coding-cryptid&theme=nord&background=transparent&show_icons=true&hide_border=true&layout=donut&bg_color=00000000"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coding-cryptid&theme=nord&show_icons=true&hide_border=true&layout=donut&bg_color=00000000"/>
     </td>
   </tr>
 </table>
