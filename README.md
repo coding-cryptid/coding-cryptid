@@ -1,8 +1,8 @@
 # Hi there, I'm Gianna!
 
 I'm currently a **Software Engineering Student** who loves building web games in my free time! I am excited to start my career in tech and build applications that have **real-world impact.**
-  - 📚 Currently learning: **Backend Development**
-  - 👩🏻‍💻 Working on: **Building APIs**
+  - 📚 Currently learning: **TypeScript**
+  - 👩🏻‍💻 Working on: **Front-End Specialization**
   - 🧬 Programming Languages: **`JavaScript` · `Python` · `TypeScript` · `SQL`**
   - 🎮 Fun fact: **I am a gigging guitarist!**
 
