@@ -3,7 +3,7 @@
 I'm currently a **Software Engineering Student** who loves building web games in my free time! I am excited to start my career in tech and build applications that have **real-world impact.**
   - 📚 Currently learning: **Backend Development**
   - 👩🏻‍💻 Working on: **Building APIs**
-  - 🧬 Programming Languages: **`JavaScript` · `Python` · `TypeScript`**
+  - 🧬 Programming Languages: **`JavaScript` · `Python` · `TypeScript` · `SQL`**
   - 🎮 Fun fact: **I am a gigging guitarist!**
 
 <img src="https://www.codewars.com/users/coding-cryptid/badges/small"/>
