@@ -69,7 +69,7 @@ I'm currently a **Software Engineering Student** who loves building web games in
 ### 💭 Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nightowl" alt="Dev quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&bg_color=00000000&color=c792ea" alt="Dev quote" />
 </p>
 
 ---
