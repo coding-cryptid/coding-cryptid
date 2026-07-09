@@ -73,5 +73,5 @@ I'm currently a **Software Engineering Student** who loves building web games in
 </p>
 
 ---
-<p align="center" <style color="#c792ea"><i>💖 From <a href="https://github.com/coding-cryptid">coding-cryptid</a></i></style></p>
+<p align="center"><style color="c792ea"><i>💖 From <a href="https://github.com/coding-cryptid">coding-cryptid</a></i></p>
 
