@@ -8,18 +8,18 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=3fb950&center=true&vCenter=true&width=360&height=44&lines=Software%20Engineer" alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+### 👩🏻‍💻 About Me
 
 I'm currently a **Software Engineering Student** who loves building web games in my free time! I am excited to start my career in tech and build applications that have **real-world impact.**
 
 <img src="https://www.codewars.com/users/coding-cryptid/badges/small"/>
 
 🌱 &nbsp;I'm currently learning **React with TypeScript, Redux, and Auth0**  
-👯 &nbsp;I'm looking to collaborate on **open-source web games**  
+🫂 &nbsp;I'm looking to collaborate on **open-source web games**  
 💬 &nbsp;Ask me about **front-end UX/UI design**  
-⚡ &nbsp;Fun fact: **I am a gigging guitarist!**
+✨ &nbsp;Fun fact: **I am a gigging guitarist!**
 
-### 🛠️ Tech Stack
+### 🧰 Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -45,7 +45,7 @@ I'm currently a **Software Engineering Student** who loves building web games in
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
 </p>
 
-### 🔗 Connect With Me
+### 📲 Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/giannac27" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -71,4 +71,4 @@ I'm currently a **Software Engineering Student** who loves building web games in
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/coding-cryptid">coding-cryptid</a></i></p>
+<p align="center"><i>💖 From <a href="https://github.com/coding-cryptid">coding-cryptid</a></i></p>
