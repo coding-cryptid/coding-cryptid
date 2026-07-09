@@ -47,12 +47,6 @@ I'm currently a **Software Engineering Student** who loves building web games in
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="MacOS" />
 </p>
 
-### 📲 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/giannac27" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
-
 ### 📊 GitHub Stats
 
 <p align="center">
