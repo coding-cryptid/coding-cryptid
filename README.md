@@ -63,7 +63,7 @@ I'm currently a **Software Engineering Student** who loves building web games in
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=coding-cryptid&bg_color=00000000&color=4f46e5&line=C792EA&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=coding-cryptid&bg_color=00000000&color=c792ea&line=c792ea&point=ffeb95&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ### 💭 Dev Quote
