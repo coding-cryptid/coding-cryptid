@@ -50,8 +50,6 @@ I'm currently a **Software Engineering Student** who loves building web games in
 
 ### 📊 GitHub Stats
 
-[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=coding-cryptid&theme=nightowl)](https://github.com/your-username)
-
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=coding-cryptid&show_icons=true&theme=nightowl&title_color=c792ea&icon_color=ffeb95&text_color=ffeb95&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=coding-cryptid&layout=compact&theme=nightowl&title_color=c792ea&icon_color=ffeb95&text_color=ffeb95&hide_border=true&bg_color=00000000&langs_count=10" alt="top langs" />
