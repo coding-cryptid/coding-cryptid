@@ -68,5 +68,5 @@ I'm currently a **Software Engineering Student** who loves building web games in
 </p>
 
 ---
-<p align="center"><i>💖 From <a href="https://github.com/coding-cryptid">coding-cryptid</a></i></p>
+<p align="center">💖<i> From <a href="https://github.com/coding-cryptid">coding-cryptid</a></i></p>
 
