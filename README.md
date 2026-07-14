@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/coding-cryptid">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=5a54c4&fontSize=54&height=90&width=634&text=Hello!%20I'm%20Gianna" alt="Hello! I&#39;m Gianna" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=7672cb&fontSize=54&height=90&width=634&text=Hello!%20I'm%20Gianna" alt="Hello! I&#39;m Gianna" />
   </a>
 </p>
 
@@ -51,20 +51,20 @@ I'm currently a **Software Engineering Student** who loves building web games in
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=coding-cryptid&show_icons=true&theme=nightowl&title_color=5a54c4&icon_color=c792ea&text_color=ffeb95&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=coding-cryptid&layout=compact&theme=nightowl&title_color=c792ea&icon_color=ffeb95&text_color=ffeb95&hide_border=true&bg_color=00000000&langs_count=10" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=coding-cryptid&show_icons=true&theme=nightowl&title_color=7672cb&icon_color=c792ea&text_color=ffeb95&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=coding-cryptid&layout=compact&theme=nightowl&title_color=7672cb&icon_color=ffeb95&text_color=ffeb95&hide_border=true&bg_color=00000000&langs_count=10" alt="top langs" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=coding-cryptid&bg_color=00000000&color=5a54c4&line=c792ea&point=ffeb95&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=coding-cryptid&bg_color=00000000&color=7672cb&line=c792ea&point=ffeb95&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ### 💭 Dev Quote
 
 <p align="center">
- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&backgroundColor=5a54c41a&quoteColor=c792ea&authorColor=ffeb95&symbolColor=c792ea" alt="Dev quote" />
+ <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&backgroundColor=7672cb1a&quoteColor=c792ea&authorColor=ffeb95&symbolColor=c792ea" alt="Dev quote" />
 </p>
 
 ---
