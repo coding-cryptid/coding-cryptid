@@ -64,7 +64,7 @@ I'm currently a **Software Engineering Student** who loves building web games in
 ### 💭 Dev Quote
 
 <p align="center">
- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&backgroundColor=928FD21a&quoteColor=c792ea&authorColor=ffeb95&symbolColor=c792ea" alt="Dev quote" width="100%" />
+ <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&backgroundColor=928FD21a&quoteColor=c792ea&authorColor=ffeb95&symbolColor=c792ea" alt="Dev quote" width="500" />
 </p>
 
 <p align="center">💖<i> From <a href="https://github.com/coding-cryptid">coding-cryptid</a></i></p>
