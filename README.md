@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/coding-cryptid">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=c792ea&fontSize=54&height=90&width=634&text=Hello!%20I'm%20Gianna" alt="Hello! I&#39;m Gianna" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4B0082&fontSize=54&height=90&width=634&text=Hello!%20I'm%20Gianna" alt="Hello! I&#39;m Gianna" />
   </a>
 </p>
 
