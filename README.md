@@ -17,7 +17,7 @@ I'm currently a **Software Engineering Student** who loves building web games in
 
 🌱 &nbsp;I'm currently learning **React with TypeScript, Redux, and Auth0**  
 🙏🏼 &nbsp;I'm looking to collaborate on **open-source web games**  
-💬 &nbsp;Ask me about **front-end UX/UI design**  
+💬 &nbsp;Ask me about **my freelance graphic design work**  
 ✨ &nbsp;Fun fact: **I am a gigging guitarist!**
 
 ### 🧰 Tech Stack
