@@ -11,7 +11,7 @@
 
 ### 👩🏻‍💻 About Me
 
-I am a new **Software Engineering Graduate** who loves building web games in my free time! I am excited to start my career in tech and build applications that have **real-world impact.**
+I am a **Software Engineer** who loves building web games in my free time! I am excited to start my career in tech and build applications that have **real-world impact.**
 
 <img src="https://www.codewars.com/users/coding-cryptid/badges/small"/>
 
