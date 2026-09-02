@@ -15,7 +15,7 @@ I am a new **Software Engineering Graduate** who loves building web games in my 
 
 <img src="https://www.codewars.com/users/coding-cryptid/badges/small"/>
 
-🌱 &nbsp;I'm currently learning **React with TypeScript, Redux, and Auth0**  
+🌱 &nbsp;I'm currently learning **Full-Stack Development**  
 🙏🏼 &nbsp;I'm looking to collaborate on **open-source web games**  
 💬 &nbsp;Ask me about **my freelance graphic design work**  
 ✨ &nbsp;Fun fact: **I am a gigging guitarist!**
