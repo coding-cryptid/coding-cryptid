@@ -55,12 +55,6 @@ I am a new **Software Engineering Graduate** who loves building web games in my 
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=coding-cryptid&layout=compact&theme=nightowl&title_color=ec9bd5&icon_color=ffeb95&text_color=F2F4F5&hide_border=true&bg_color=00000000&langs_count=10" alt="top langs" />
 </p>
 
-### 📈 Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=coding-cryptid&bg_color=00000000&color=F2F4F5&title_color=ec9bd5&line=ec9bd5&point=ffeb95&area=true&hide_border=true" alt="activity graph" />
-</p>
-
 ### 💭 Dev Quote
 
 <p align="center"> 
