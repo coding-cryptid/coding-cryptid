@@ -17,7 +17,7 @@ I am a **Software Engineer** who loves building web games in my free time! I am 
 
 🌱 &nbsp;I'm currently learning **Full-Stack Development**  
 👩🏻‍💻 &nbsp;I'm working on **Networking on LinkedIn**  
-🙏🏼 &nbsp;I'm looking to collaborate on **open-source web games**  
+🙏🏼 &nbsp;I'm looking to collaborate on **open-source UX/UI work**  
 💬 &nbsp;Ask me about **my freelance graphic design work**  
 ✨ &nbsp;Fun fact: **I am a gigging guitarist!**
 
