@@ -15,7 +15,7 @@ I am a **Software Engineer** who loves building web games in my free time! I am 
 
 <img src="https://www.codewars.com/users/coding-cryptid/badges/small"/>
 
-🌱 &nbsp;I'm currently learning **Advanced Backend Development**  
+🌱 &nbsp;I'm currently learning **PostgreSQL, Docker, Django**  
 👩🏻‍💻 &nbsp;I'm working on **TBA**    
 🙏🏼 &nbsp;I'm looking to collaborate on **TBA**  
 💬 &nbsp;Ask me about **my freelance graphic design work**  
